@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+    .logo{
+    width: 60px;
+    }
+
+        section{
+            background-image: url("C:/Users/GABY/own%20page/imagenes/2.jpg");
+            background-size: cover;
+
+        }
