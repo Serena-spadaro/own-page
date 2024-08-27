@@ -82,7 +82,24 @@ header{
 }
 #seccion-2 p{
     color:rgb(78, 71, 59) ;
+    text-align:center ;
+}
 
+#footer1 #ig img{
+    width:60px;
+    transition: transform 0.3s ease;
+
+}
+#footer1 #wp img{
+    width:60px;
+    transition: transform 0.3s ease;
+
+}
+#footer1 #ig  img:hover{
+    transform: scale(1.2);
+}
+#footer1 #wp  img:hover{
+    transform: scale(1.2);
 }
 #titulo1{
     display: flex;
